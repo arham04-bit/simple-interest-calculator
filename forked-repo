@@ -1,0 +1,5 @@
+curl -s https://api.github.com/repos/arham04-bit/mcino-Introduction-to-Git-and-GitHub | grep -E '"fork"|"full_name"'
+
+
+"full_name": "arham04-bit/mcino-Introduction-to-Git-and-GitHub",
+"fork": true,
