@@ -1,0 +1,13 @@
+$ curl -L https://api.github.com/repos/arham04-bit/mcino-Introduction-to-Git-and-GitHub/pulls
+
+[
+  {
+    "number": 1,
+    "state": "open",
+    "head": {
+      "repo": {
+        "full_name": "arham04-bit/mcino-Introduction-to-Git-and-GitHub"
+      }
+    }
+  }
+]
